@@ -9,7 +9,7 @@
         Height="428"
         Width="578"
         MinHeight="570"
-        MinWidth="860"
+        MinWidth="810"
         Icon="assets/icono.ico">
     <DockPanel>
         <DockPanel DockPanel.Dock="Bottom"
@@ -37,8 +37,7 @@
                 CornerRadius="3"
                 DockPanel.Dock="Right"
                 Margin="10">
-            <DockPanel Width="150"
-                       LastChildFill="False"
+            <DockPanel LastChildFill="False"
                        Background="LightGreen">
                 <StackPanel DockPanel.Dock="Top">
                     <Button Margin="3">Añadir imagen</Button>
